@@ -11,7 +11,7 @@
 
 <p align="space-between"> <br>
     <a href="https://https://github.com/RegiBatista">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=regibatista&show_icons=true&theme=radical&include_all_commits=true&icon_color=dracula" style="max-width:100%;"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobatista&langs_count=10&layout=compact&theme=radical" style="max-width:1000%;">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=regibatista&show_icons=true&theme=radical&include_all_commits=true&icon_color=dracula" style="max-width:100%;"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regibatista&langs_count=10&layout=compact&theme=radical" style="max-width:1000%;">
 
 </p>   
     
