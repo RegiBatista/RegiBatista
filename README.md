@@ -6,7 +6,7 @@
 - 💻 I'm Dev student now @ [**DIO**](https://web.dio.me/home)
 - 🎯 I'm currently pushing all my codes to GitHub and building my portfolio!
 - 📫 How to reach me **magikstore12@gmail.com**
-- 🏅 I love to run! Improving myself every week!
+- 🏅 I love to run! Improving myself every week! 
 - 🎮 When I'm not having fun coding, I'm probably having fun playing!
 
 <p align="space-between"> <br>
