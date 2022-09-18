@@ -2,7 +2,7 @@
 ### Fascinado por Desenvolvimento Mobile :iphone:
 
 
-- 🚀 From Sales to Programming!
+- 🚀 From Sales to Programming! 
 - 💻 I'm Dev student now @ [**DIO**](https://web.dio.me/home)
 - 🎯 I'm currently pushing all my codes to GitHub and building my portfolio!
 - 📫 How to reach me **magikstore12@gmail.com**
